@@ -5,11 +5,6 @@ we show you how you can create a nice
 clean archetecture and clean design for your e-commerce app that can
 run both Andriod and iOS devices because it builds with flutter.
 
-
-### Video Preview of Final UI
-
-![Preview](/intro.gif)
-
 ## Screens it contains:
 
 => Splash
